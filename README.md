@@ -1,6 +1,6 @@
 # 🌟 CAREPLUS - E-commerce Management System
 
-Welcome to **CAREPLUS**, a full-fledged web-based e-commerce management system. Built using **Java, Servlets, JDBC, JSP, HTML, CSS, and JavaScript**, CAREPLUS provides a robust and scalable platform for online shopping businesses. 
+Welcome to **CAREPLUS**, a full-fledged web-based e-commerce management system. Built using **Java, Servlets, JDBC, JSP, HTML, CSS,Bootstrap,AJAX, jQuery, JSON ,and JavaScript**, CAREPLUS provides a robust and scalable platform for online shopping businesses. 
 
 ---
 

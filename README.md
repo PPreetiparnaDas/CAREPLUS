@@ -23,7 +23,7 @@ Welcome to **CAREPLUS**, a full-fledged web-based e-commerce management system. 
 ## 🛠️ Technologies Used
 | Backend | Frontend | Database | Build Tool |
 |---------|---------|----------|------------|
-| Java, Servlets, JDBC | JSP, HTML, CSS, JavaScript, Bootstrap | MySQL | Maven |
+| Java, Servlets, JDBC | JSP, HTML, CSS, JavaScript, Bootstrap,AJAX, jQuery, JSON | MySQL | Maven |
 
 ---
 
